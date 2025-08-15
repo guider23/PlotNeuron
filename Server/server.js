@@ -9,7 +9,6 @@ const PORT = 3000;
 app.use(bodyParser.json());
 app.use("/outputs", express.static(path.join(__dirname, "plotter/output")));
 
-// Routes
 const renderRoute = require("./routes/render");
 app.use("/generate", renderRoute);
 
