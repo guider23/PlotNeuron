@@ -13,5 +13,5 @@ const renderRoute = require("./routes/render");
 app.use("/generate", renderRoute);
 
 app.listen(PORT, () => {
-  console.log(`🚀 Server running at http://localhost:${PORT}`);
+  console.log(`Server running at http://localhost:${PORT}`);
 });
