@@ -15,7 +15,7 @@ folders.forEach(dir => {
   const fullPath = path.join(__dirname, dir);
   if (!fs.existsSync(fullPath)) {
     fs.mkdirSync(fullPath, { recursive: true });
-    console.log(`✅ Created folder: ${dir}`);
+    console.log(`Created folder: ${dir}`);
   }
 });
 
@@ -27,4 +27,4 @@ fs.writeFileSync("scripts/generate.py", "# generate.py placeholder\n");
 fs.writeFileSync("routes/render.js", "// render route\n");
 fs.writeFileSync("utils/generatePy.js", "// generatePy util\n");
 
-console.log("✅ Structure ready. Now clone PlotNeuralNet repo into plotter/PlotNeuralNet/");
+console.log("Structure ready. Now clone PlotNeuralNet repo into plotter/PlotNeuralNet/");
