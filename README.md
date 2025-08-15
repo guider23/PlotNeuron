@@ -29,7 +29,7 @@ Alright, no sugarcoating — this thing takes in your neural network JSON, runs 
 
 Using git:
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/guider23/PlotNeuron
 cd PlotNeuron
 ```
 Or unzip the folder and `cd` into it.
@@ -122,20 +122,6 @@ Boom. There’s your architecture.
 
 ---
 
-## 8. Zip-and-Go Mode
-
-If you're sending it as a zip:
-- Unzip anywhere
-- Open terminal in that folder
-- Follow the same run steps
-
----
-
 That’s it. Clean project, no clutter. You know the vibe.
-Just unzip → install → run → post → PNG. 
+Just clone → install → run → post → PNG. 
 If anything's off, read the console — it talks back.
-
-Peace.
-
-
->A side hustle by S.Siddarth
