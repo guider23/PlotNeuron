@@ -1,3 +1,9 @@
+[![FastPlotNeuron](https://img.shields.io/badge/FastPlotNeuron-8.1×_faster-2ea44f?logo=lightning&logoColor=white)](https://github.com/guider23/FastPlotNeuron)
+
+<img src = https://pouch.jumpshare.com/preview/HBsRUli9DpJ-ZenBh2k3EQD0G-51w-pexQVKrc8B4y6trcltl0uSAjWDrMgE_t-A5JdIQUvkYP1PaJpnakeNZ4knx3lLpIws2nvRDTM6DHs >
+
+
+
 # PlotNeuron — Neural Network Diagram Generator
 
 Alright, no sugarcoating — this thing takes in your neural network JSON, runs it through a Node.js backend, cooks it with a Python-LaTeX script, and spits out a clean PNG diagram. Minimal effort, max clarity.
