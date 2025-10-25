@@ -1,4 +1,4 @@
-[![FastPlotNeuron](https://img.shields.io/badge/FastPlotNeuron-8.1×_faster-2ea44f?logo=lightning&logoColor=white)](https://github.com/guider23/FastPlotNeuron)
+New version : [![FastPlotNeuron](https://img.shields.io/badge/FastPlotNeuron-8.1×_faster-2ea44f?logo=lightning&logoColor=white)](https://github.com/guider23/FastPlotNeuron)
 
 
 
